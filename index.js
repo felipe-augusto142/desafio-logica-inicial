@@ -39,4 +39,3 @@ if(nivel){
 }
 
 console.log("O heroi de nome "+nome+" está no nível "+titulo)
- 
