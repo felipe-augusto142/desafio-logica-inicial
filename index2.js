@@ -1,4 +1,4 @@
-//Implementação Switch
+//Implementação Switch não funcional
 let XP = 500
 let nome = "João das Neves"
 let titulo = "Madeira"
