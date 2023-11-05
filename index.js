@@ -13,7 +13,6 @@ let nivel9 = 8000 <= XP && XP < 9000
 let nivel10 = 9000 <= XP && XP < 10000
 let nivel11 = XP >= 10000
 
-
 if(nivel){
     titulo="Pedra"
 }else if(nivel2){
