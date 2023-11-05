@@ -9,6 +9,7 @@ switch(true){
     break
     case XP < 2000:
     titulo="Ferro"
+    break
     case XP < 3000:
     titulo="Cobre"
     break
